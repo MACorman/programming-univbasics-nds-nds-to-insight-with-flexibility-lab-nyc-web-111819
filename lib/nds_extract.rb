@@ -80,6 +80,7 @@ def gross_per_studio(collection)
   while index < collection.length do 
     movie = collection[index]
     
+    
   
   
 end
